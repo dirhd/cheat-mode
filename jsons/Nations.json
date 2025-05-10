@@ -9,5 +9,6 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniques": ["[+200]% Production [in all cities]","\"Burrows\" city name from other civilizations in the game"],
+		"cities": ["정착지"]
 	}
 ]
