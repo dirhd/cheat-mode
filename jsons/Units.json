@@ -1,17 +1,15 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"name": "외계함선",
+		"unitType": "Bomber",
+		"uniqueTo": "외계문명",
 		"movement": 2,
 		"strength": 90,
-		"rangedStrength": 36,
+		"rangedStrength": 300,
 		"range": 2,
 		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"uniques": ["unbuildable","[+200]% Strength <when attaking>"],
+		"promotions": ["Air repair","Logistics"],
+		"attackSound": "machinegun"
 	}
 ]
