@@ -8,8 +8,8 @@
 		"rangedStrength": 300,
 		"range": 15,
 		"cost": 500,
-		"uniques": ["Unbuildable","[+200]% Strength <when attacking>","[+20] Sight"],
-		"promotions": ["Air Repair","Logistics","Can see over obstacles"],
+		"uniques": ["Unbuildable","[+200]% Strength <when attacking>","[+20] Sight","Can see over obstacles"],
+		"promotions": ["Air Repair","Logistics"],
 		"attackSound": "machinegun"
 	}
 ]
