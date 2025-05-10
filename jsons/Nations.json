@@ -8,7 +8,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"uniques": ["[+200]% Production [in all cities]","\"Borrows\" city names from other civilizations in the game"],
+		"uniques": ["[+200]% Production when constructing [All] units [in all cities]","\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["정착지"]
 	}
 ]
