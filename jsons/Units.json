@@ -8,7 +8,7 @@
 		"rangedStrength": 300,
 		"range": 2,
 		"cost": 500,
-		"uniques": ["unbuildable","[+200]% Strength <when attaking>"],
+		"uniques": ["unbuildable","[+200]% Strength <when attacking>"],
 		"promotions": ["Air repair","Logistics"],
 		"attackSound": "machinegun"
 	}
